@@ -1,0 +1,15 @@
+E:\Cursos\cursoC#\contaBanco\contaBanco\bin\Debug\net7.0\contaBanco.exe
+E:\Cursos\cursoC#\contaBanco\contaBanco\bin\Debug\net7.0\contaBanco.deps.json
+E:\Cursos\cursoC#\contaBanco\contaBanco\bin\Debug\net7.0\contaBanco.runtimeconfig.json
+E:\Cursos\cursoC#\contaBanco\contaBanco\bin\Debug\net7.0\contaBanco.dll
+E:\Cursos\cursoC#\contaBanco\contaBanco\bin\Debug\net7.0\contaBanco.pdb
+E:\Cursos\cursoC#\contaBanco\contaBanco\obj\Debug\net7.0\contaBanco.csproj.AssemblyReference.cache
+E:\Cursos\cursoC#\contaBanco\contaBanco\obj\Debug\net7.0\contaBanco.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\cursoC#\contaBanco\contaBanco\obj\Debug\net7.0\contaBanco.AssemblyInfoInputs.cache
+E:\Cursos\cursoC#\contaBanco\contaBanco\obj\Debug\net7.0\contaBanco.AssemblyInfo.cs
+E:\Cursos\cursoC#\contaBanco\contaBanco\obj\Debug\net7.0\contaBanco.csproj.CoreCompileInputs.cache
+E:\Cursos\cursoC#\contaBanco\contaBanco\obj\Debug\net7.0\contaBanco.dll
+E:\Cursos\cursoC#\contaBanco\contaBanco\obj\Debug\net7.0\refint\contaBanco.dll
+E:\Cursos\cursoC#\contaBanco\contaBanco\obj\Debug\net7.0\contaBanco.pdb
+E:\Cursos\cursoC#\contaBanco\contaBanco\obj\Debug\net7.0\contaBanco.genruntimeconfig.cache
+E:\Cursos\cursoC#\contaBanco\contaBanco\obj\Debug\net7.0\ref\contaBanco.dll
